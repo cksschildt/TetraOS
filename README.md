@@ -1,2 +1,3 @@
 # TetraOS
-Operating System based on the open-source Linux Kernel. Main part of this project is for the GUI of the operating system. 
+TetraOS is an open-source operating system running on the Linux kernel. TetraOS is meant to be a stable and user-friendly Linux distribution for Linux beginners.
+This Github repository is mainly meant for developing the bootloader, GUI, and pre-alpha prototype.
